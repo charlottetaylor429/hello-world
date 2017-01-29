@@ -1,2 +1,3 @@
 # hello-world
 Testing, testing...
+Hi! I'm Charlotte, a second year IDEC student at USF. 
